@@ -1,0 +1,9 @@
+C:\Users\saycm01\Desktop\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\saycm01\Desktop\Buttons\bin\Debug\Buttons.exe
+C:\Users\saycm01\Desktop\Buttons\bin\Debug\Buttons.pdb
+C:\Users\saycm01\Desktop\Buttons\obj\Debug\Buttons.Form1.resources
+C:\Users\saycm01\Desktop\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\saycm01\Desktop\Buttons\obj\Debug\Buttons.csproj.GenerateResource.Cache
+C:\Users\saycm01\Desktop\Buttons\obj\Debug\Buttons.exe
+C:\Users\saycm01\Desktop\Buttons\obj\Debug\Buttons.pdb
+C:\Users\saycm01\Desktop\Buttons\obj\Debug\Buttons.csprojResolveAssemblyReference.cache
